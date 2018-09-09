@@ -120,7 +120,7 @@ string process(string& word)
 	}
 		
 	//test for words that begin with "Qu"
-	if (word[0] == 'Q' || word[0] == 'q' && word[1] == 'U' || word[1] == 'u')
+	if ((word[0] == 'Q' || word[0] == 'q') && (word[1] == 'U' || word[1] == 'u'))
 	{
 		split = 2;					//sets split index
 		//modifies word to piglatin
