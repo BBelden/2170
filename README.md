@@ -1,6 +1,6 @@
 # 2170
 
-## description
+## Second class of computer science. More work with early data structures and recursion.
 
 **OLA1** contains a program that reads a list of words from a file, converts them into Pig Latin, then outputs both side-by-side.
 
